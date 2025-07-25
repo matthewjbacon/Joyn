@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Joyn - Social Discovery Map",
+  "description": "A minimalist, location-based social discovery app. Find your vibe, discover moments, and connect with people through a clean, map-first interface.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "prompt": ""
+}
